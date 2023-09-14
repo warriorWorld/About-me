@@ -13,9 +13,14 @@ This app is only available on specific devices, you can check it out by clicking
 
 This app is kind of like Siri, you can talk with it and it will answer you by voice. You can ask specific questions, such as how to write a Chinese word, and it will show you how by showing a gif, or you can ask the app to play a piece of music for you. Or you can just chat with it about everyday topics.
 
-![AITeacher1](https://github.com/warriorWorld/About-me/blob/main/images/AITeacher1.jpg) ![AITeacher1](https://github.com/warriorWorld/About-me/blob/main/images/AITeacher2.jpg) ![AITeacher1](https://github.com/warriorWorld/About-me/blob/main/images/AITeacher3.jpg) ![AITeacher1](https://github.com/warriorWorld/About-me/blob/main/images/AITeacher4.jpg)
+![AITeacher1](https://github.com/warriorWorld/About-me/blob/main/images/AITeacher1.jpg) ![AITeacher1](https://github.com/warriorWorld/About-me/blob/main/images/AITeacher2.jpg) ![AITeacher1](https://github.com/warriorWorld/About-me/blob/main/images/AITeacher3.jpg) 
 
-95% of this app was developed by me(of course I mean the Android part).
+##### Technical detail(if you are not interested, just ignore this part)
+###### SDK Part
+I developed an SDK for this app to use(we have other applications that use the SDK that I developed), The SDK can deal with users' sound by using VAD(aka, Voice activity detection) technology to detect the active part of the sound, I denoise it, and then I call ASR(aka, Automatic Speech Recognition) interface in order to transfer the sound to text after I got the text, I send the text to our service, then our service will handle it with AI(chatGPT and my company's own AI, the service will determine use which one). And finally, the service will give me a response. And the SDK's job is done. (100% of this SDK was developed by me)
+###### App Part
+Okay, the app gets a response from the SDK and will handle the response according to specific rules, because you know, there are several special feedbacks for users, just like the images showed, This part was handled by RXJava. With a normal response, I just use the SDK to do TTS(aka, text to speech) for me and show the text to users(95% of this app was developed by me).
+
 
 
 
