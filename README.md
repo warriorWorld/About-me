@@ -69,5 +69,8 @@ This is a medical software company that mainly develops HIS(aka, Hospital Inform
 
 Hospitals use this application to manage their medicines and patients can also benefit from this, they can get their medicines more quickly and accurately. I developed this app all by myself(I mean during that time, I was still a novice and this app actually was very simple).
 
-![medicine](https://github.com/warriorWorld/About-me/blob/main/images/medicine1.png) ![medicine](https://github.com/warriorWorld/About-me/blob/main/images/medicine2.png)
+![medicine](https://github.com/warriorWorld/About-me/blob/main/images/medicine1.jpg) ![medicine](https://github.com/warriorWorld/About-me/blob/main/images/medicine2.jpg)
+
+
+## My Personal Projects
 
