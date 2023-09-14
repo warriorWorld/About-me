@@ -10,6 +10,7 @@ I've been working for three companies during my 8 years of working as an Android
 ![icon](https://zhengxin-pub.cdn.bcebos.com/brandpic/b8af51efce518f2745010d093f924f5d_fullsize.jpg?x-bce-process=image/resize,h_40,w_60)
 #### Roobo AI teacher
 This app is only available on specific devices, you can check it out by clicking [here](https://baijiahao.baidu.com/s?id=1756802320950561258&wfr=spider&for=pc).
+
 This app is kind of like Siri, you can talk with it and it will answer you by voice. You can ask specific questions, such as how to write a Chinese word, and it will show you how by showing a gif, or you can ask the app to play a piece of music for you. Or you can just chat with it about everyday topics.
 95% of this app was developed by me(of course I mean the Android part).
 
