@@ -26,4 +26,8 @@ This app is for children studying Chinese, English, art, mathematics, etc... You
 
 This app actually has about a dozen types of little games built into it. Teachers can group videos and little games together in a console and they can configure those games according to courses. For example, they can configure a puzzle game in order to teach children art and configure a rhythm game in order to teach children music.
 
+![AICourses](https://github.com/warriorWorld/About-me/blob/main/images/AICourses.webp)
+
+##### Technical detail(if you are not interested, just ignore this part)
+At first, we developed this app by using Flutter, but after the project became bigger and bigger. And also because the app mainly consisted of game-like features. As a result, we changed to Unity. I developed the video part and also developed several games for this project. For the video part, I used a third-party plugin for the video play, I mainly handled the gesture part of the video play. For the game part, I've developed a puzzle game, a rhythm game, a poem game, two exhibition games, a word pronunciation game, etc.
 
