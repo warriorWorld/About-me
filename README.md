@@ -6,9 +6,9 @@ Okay, in this repo, I will introduce my work experiences. For obvious reasons, m
 ## Company projects
 I've been working for three companies during my 8 years of working as an Android developer, I will describe them in an inverted order.
 
-### Roobo 
+### 1, Roobo
 ![icon](https://zhengxin-pub.cdn.bcebos.com/brandpic/b8af51efce518f2745010d093f924f5d_fullsize.jpg?x-bce-process=image/resize,h_40,w_60)
-#### Roobo AI teacher
+#### 1, Roobo AI teacher
 This app is only available on specific devices, you can check it out by clicking [here](https://baijiahao.baidu.com/s?id=1756802320950561258&wfr=spider&for=pc).
 
 This app is kind of like Siri, you can talk with it and it will answer you by voice. You can ask specific questions, such as how to write a Chinese word, and it will show you how by showing a gif, or you can ask the app to play a piece of music for you. Or you can just chat with it about everyday topics.
@@ -21,7 +21,7 @@ I developed an SDK for this app to use(we have other applications that also use 
 ###### App Part
 The app gets a response from the SDK and will handle the response according to specific rules because you know, there are several special feedbacks for users, just like the images showed, I handle this part by using RXJava. With a normal response, I just use the SDK to do TTS(aka, text to speech) for me and show the text to users(95% of this app's parts were developed by me).
 
-#### Roobo AI courses
+#### 2, Roobo AI courses
 This app is for children studying Chinese, English, art, mathematics, etc... You can learn more by clicking [here](http://activity.roobovip.com/#/mainEntry1).
 
 This app actually has about a dozen types of little games built into it. Teachers can group videos and little games together in a console and they can configure those games according to courses. For example, they can configure a puzzle game in order to teach children art and configure a rhythm game in order to teach children music.
@@ -31,3 +31,9 @@ This app actually has about a dozen types of little games built into it. Teacher
 ##### Technical detail(if you are not interested, just ignore this part)
 At first, we developed this app by using Flutter, but after the project became bigger and bigger. And also because the app mainly consisted of game-like features. As a result, we changed to Unity. I developed the video part and also developed several games for this project. For the video part, I used a third-party plugin for the video play, I mainly handled the gesture part of the video play. For the game part, I've developed a puzzle game, a rhythm game, a poem game, two exhibition games, a word pronunciation game, etc.
 
+#### 3, Pudding robot
+This is not an app but a robot, and it is based on Android. more info [here](https://baike.baidu.com/item/%E5%B8%83%E4%B8%81%E8%B1%86%E8%B1%86/20374641?fr=ge_ala)
+
+I developed an SDK for other companies or whoever wants to control the robot, you can use the SDK to control the robot rotating, speaking, and sleeping. And you can use the SDK to manage the focus of the robot's hardware.
+
+![Putting](https://github.com/warriorWorld/About-me/blob/main/images/Pudding.webp)
