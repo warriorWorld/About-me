@@ -8,6 +8,9 @@ I've been working for three companies during my 8 years of working as an Android
 
 ### 1, Roobo
 ![icon](https://zhengxin-pub.cdn.bcebos.com/brandpic/b8af51efce518f2745010d093f924f5d_fullsize.jpg?x-bce-process=image/resize,h_40,w_60)
+
+This is an education company, it makes software for teaching children.
+
 #### 1, Roobo AI teacher
 This app is only available on specific devices, you can check it out by clicking [here](https://baijiahao.baidu.com/s?id=1756802320950561258&wfr=spider&for=pc).
 
@@ -39,6 +42,7 @@ I also took the responsibility of maintaining several apps in that robot.
 
 ![Putting](https://github.com/warriorWorld/About-me/blob/main/images/Pudding.webp)
 
+
 ### 2, XianHuaHua(先花信息技术（北京）有限公司)
 
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/xianhuahua.png)
@@ -53,4 +57,17 @@ I developed all the parts of this app(Android part), and this app had more than 
 #### 2, 花生米富（an app for lender to invest money）
 I developed all the parts of this app(Android part),  and this app had more than hundreds of thousands of users.
 ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu1.jpg) ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu2.jpg) 
+
+
+### 3, Kanglianda(康联达（北京）软件有限公司)
+
+![icon](https://github.com/warriorWorld/About-me/blob/main/images/kanglianda.jpg)
+
+This is a medical software company that mainly develops HIS(aka, Hospital Information System) applications.
+
+#### 1, HIS(a medicine management application)
+
+Hospitals use this application to manage their medicines and patients can also benefit from this, they can get their medicines more quickly and accurately. I developed this app all by myself(I mean during that time, I was still a novice and this app actually was very simple).
+
+![medicine](https://github.com/warriorWorld/About-me/blob/main/images/medicine1.png) ![medicine](https://github.com/warriorWorld/About-me/blob/main/images/medicine1.png)
 
