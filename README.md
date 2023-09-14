@@ -40,11 +40,14 @@ I also took the responsibility of maintaining several apps in that robot.
 ![Putting](https://github.com/warriorWorld/About-me/blob/main/images/Pudding.webp)
 
 ### 2, XianHuaHua(先花信息技术（北京）有限公司)
+
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/xianhuahua.png)
+
 This company was a P2P company which means it provided loan and investment chances for users, and it has already gone broke.
 
 #### 1, 先花一亿元（an app that you can borrow money from it）
 I developed all the parts of this app(Android part), and this app had more than 10 million users.
+
 ![yyy](https://github.com/warriorWorld/About-me/blob/main/images/yyy.jpg)
 
 #### 2, 花生米富（an app for lender to invest money）
