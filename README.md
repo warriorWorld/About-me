@@ -35,5 +35,9 @@ At first, we developed this app by using Flutter, but after the project became b
 This is not an app but a robot, and it is based on Android. more info [here](https://baike.baidu.com/item/%E5%B8%83%E4%B8%81%E8%B1%86%E8%B1%86/20374641?fr=ge_ala)
 
 I developed an SDK for other companies or whoever wants to control the robot, you can use the SDK to control the robot rotating, speaking, and sleeping. And you can use the SDK to manage the focus of the robot's hardware.
+I also took the responsibility of maintaining several apps in that robot.
 
 ![Putting](https://github.com/warriorWorld/About-me/blob/main/images/Pudding.webp)
+
+### 2, XianHuaHua(先花信息技术（北京）有限公司)
+
