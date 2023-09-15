@@ -7,7 +7,7 @@ Okay, in this repo, I will introduce my work experiences. For obvious reasons, m
 I've been working for three companies during my 8 years of working as an Android developer, I will describe them in an inverted order.
 
 ### 1, Roobo
-![icon](https://zhengxin-pub.cdn.bcebos.com/brandpic/b8af51efce518f2745010d093f924f5d_fullsize.jpg?x-bce-process=image/resize,h_40,w_60)
+![icon](https://github.com/warriorWorld/About-me/blob/main/images/roobo.jpg)
 
 This is an education company, it makes software for teaching children.
 
