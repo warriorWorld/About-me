@@ -75,7 +75,9 @@ Hospitals use this application to manage their medicines and patients can also b
 ## My Personal Projects
 
 ### 1, [Manga Reader](https://github.com/warriorWorld/MangaReader)
-As the name suggests, it is an application for users to read mangas(in English), I developed this for myself to learn English, and it actually worked. Because of this, I expanded my vocabulary a lot.
+As the name suggested, it is an application for users to read mangas(in English), I developed this for myself to learn English, and it actually worked. Because of this, I expanded my vocabulary a lot.
+
+![ss](https://github.com/warriorWorld/MangaReader/blob/master/app/screenshot/ss1.jpg) ![ss](https://github.com/warriorWorld/MangaReader/blob/master/app/screenshot/ss2.jpg) ![ss](https://github.com/warriorWorld/MangaReader/blob/master/app/screenshot/ss6.jpg)
 
 
 ### 2, [Shaft](https://github.com/warriorWorld/Shaft)
