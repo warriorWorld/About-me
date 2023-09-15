@@ -1,7 +1,7 @@
 # About-me
 An introduction about myself
 
-Okay, in this repo, I will introduce my work experiences. For obvious reasons, my GitHub only includes my personal projects(I definitely cannot upload my companies' projects here, so all those projects I will not put project links here).
+Okay, in this repo, I will introduce my work experiences. For obvious reasons, my GitHub only includes my personal projects(I definitely cannot upload my companies' projects here, so all those company projects I will not put project links here).
 
 ## Company projects
 I've been working for three companies during my 8 years of working as an Android developer, I will describe them in an inverted order.
@@ -107,7 +107,7 @@ I developed this app for me to learn English(again) by you know, reading books. 
 This is a puzzle game, I developed this while I was learning Unity. You can take a photo, and then my puzzle game can turn it into a puzzle.
 
 ### 7, [Parrot](https://github.com/warriorWorld/Parrot)
-
+The Parrot is a parrot, it can repeat what you said, actually, it can detect your voice and then record it, and play it, that is all. I use this to improve my English speaking, you know, I can hear what I said and then I can correct myself.
 
 ### 8, [Word Cards](https://github.com/warriorWorld/MyWord)
 
