@@ -107,6 +107,9 @@ On this vertical version of this keyboard, you select the letter by sliding your
 
 ![github](https://github.com/warriorWorld/VideoCrawler/blob/master/app/screenshot/translate1.jpg) 
 
+If you want to use my keyboard on your own projects, you should check it out [here](https://github.com/warriorWorld/StyleLibrary)
+
+
 ### 5, [Book Reader](https://github.com/warriorWorld/StrangerBookReader)
 I developed this app for me to learn English(again) by you know, reading books. It supports TXT and PDF.
 
