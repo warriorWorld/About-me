@@ -110,12 +110,14 @@ This is a puzzle game, I developed this while I was learning Unity. You can take
 The Parrot is a parrot, it can repeat what you said, actually, it can detect your voice and then record it, and play it, that is all. I use this to improve my English speaking, you know, I can hear what I said and then I can correct myself.
 
 ### 8, [Word Cards](https://github.com/warriorWorld/MyWord)
-
+I developed this for my TOEFL examination, it worked very well.
 
 ### 9, [A Browser](https://github.com/warriorWorld/ForeignNews)
-
+This is a browser, just a browser, except you can translate a single word instead of the entire article. I also used this to learn English, you know, if you translated the entire article for yourself, it will not help you to improve your vocabulary.
 
 ### 10, [Touch Proof](https://github.com/warriorWorld/TouchProof)
-
+Sometimes, you want to hear a video rather than watch a video, and you put your phone in your pocket, but this will produce some unexpected touches. That is why I developed this app(I know YouTube provides a service for this, but it charges me a fee).
+I did this by covering the entire screen. First, you click the icon twice, it will cover your entire screen, and you have to click twice after a long touch on this screen in order to unlock the screen. This prevented those unexpected touches.
 
 ### 11, [Cover](https://github.com/warriorWorld/Cover)
+In order to learn English, sometimes I need to block the video's subtitles. I developed this app for this purpose, you can adjust the cover's position and size, and it will remember your config.
