@@ -96,15 +96,21 @@ When you arrive on the 100 floor, your character's ability will change permanent
 ### 3, [Video Crawler](https://github.com/warriorWorld/VideoCrawler)
 This is a video player, I created this app in order to learn English by watching videos, so, it makes sense that this app has a translation feature. In this app, I used Google's video player, I mainly handled the gestures of users, and I made the app very easy to use.
 
-![github](https://github.com/warriorWorld/VideoCrawler/blob/master/app/screenshot/video.jpg) ![github](https://github.com/warriorWorld/VideoCrawler/blob/master/app/screenshot/main.jpg)
+![github](https://github.com/warriorWorld/VideoCrawler/blob/master/app/screenshot/video.jpg) 
 
 ### 4, [A Keyboard](https://github.com/warriorWorld/StyleLibrary)
 I developed this keyboard in order to use it on my "My Word" and "Manga Reader" projects. This keyboard will not guess what you want to input, it makes sense when you want a keyboard that will be used in a word cards application. In addition, this keyboard is very easy to use, you can slide your finger in order to select a letter. It has a vertical version and a horizontal version.
 
-![ss](https://github.com/warriorWorld/MangaReader/blob/master/app/screenshot/ss5.jpg) ![github](https://github.com/warriorWorld/VideoCrawler/blob/master/app/screenshot/translate1.jpg) 
+![ss](https://github.com/warriorWorld/MangaReader/blob/master/app/screenshot/ss5.jpg) 
+
+On this vertical version of this keyboard, you select the letter by sliding your finger from 4 or 3 directions.
+
+![github](https://github.com/warriorWorld/VideoCrawler/blob/master/app/screenshot/translate1.jpg) 
 
 ### 5, [Book Reader](https://github.com/warriorWorld/StrangerBookReader)
 I developed this app for me to learn English(again) by you know, reading books. It supports TXT and PDF.
+
+![ss](https://github.com/warriorWorld/StrangerBookReader/blob/master/app/screenshot/translate.jpg) ![ss](https://github.com/warriorWorld/StrangerBookReader/blob/master/app/screenshot/read.jpg)
 
 ### 6, [Puzzle](https://github.com/warriorWorld/Puzzle)
 This is a puzzle game, I developed this while I was learning Unity. You can take a photo, and then my puzzle game can turn it into a puzzle.
