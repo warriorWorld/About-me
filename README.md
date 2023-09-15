@@ -87,7 +87,8 @@ You can download this game on [Google Play](https://play.google.com/store/apps/d
 
 I used Unity to develop this game, the game's target is to reach the final floor. In the game, it has 9 characters, all those characters have their own special ability. For example, the Spider can shoot a thread, the Time can stop time, and the Space can flash.
 
-[![Watch the video](https://github.com/warriorWorld/Shaft/blob/master/screenshots/TTGSS1.jpg)](https://www.youtube.com/shorts/Tpv-56QXmFk)]
+
+[[Watch the video](https://github.com/warriorWorld/Shaft/blob/master/screenshots/TTGSS1.jpg)](https://www.youtube.com/shorts/Tpv-56QXmFk)
 
 ### 3, [Video Crawler](https://github.com/warriorWorld/VideoCrawler)
 
