@@ -1,13 +1,14 @@
 # About-me
 An introduction about myself
 
-Okay, in this repo, I will introduce my work experiences. For obvious reasons, my GitHub only includes my personal projects(I definitely cannot upload my companies' projects here, so all those company projects I will not put project links here).
+Okay, in this repo, I will introduce my work experiences. For obvious reasons, my GitHub only includes my personal projects(I definitely cannot upload my companies' projects here, so all those companies projects I will not put project links here).
 
 ## Company projects
 I've been working for three companies during my 8 years of working as an Android developer, I will describe them in an inverted order.
 
-### 1, Roobo
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/roobo.jpg)
+
+### 1, Roobo
 
 This is an education company, it makes software for teaching children.
 
@@ -43,9 +44,9 @@ I also took the responsibility of maintaining several apps in that robot.
 ![Putting](https://github.com/warriorWorld/About-me/blob/main/images/Pudding.webp)
 
 
-### 2, XianHuaHua(先花信息技术（北京）有限公司)
-
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/xianhuahua.png)
+
+### 2, XianHuaHua(先花信息技术（北京）有限公司)
 
 This company was a P2P company which means it provided loan and investment chances for users, and it has already gone broke.
 
@@ -59,9 +60,9 @@ I developed all the parts of this app(Android part),  and this app had more than
 ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu1.jpg) ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu2.jpg) 
 
 
-### 3, Kanglianda(康联达（北京）软件有限公司)
-
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/kanglianda.jpg)
+
+### 3, Kanglianda(康联达（北京）软件有限公司)
 
 This is a medical software company that mainly develops HIS(aka, Hospital Information System) applications.
 
