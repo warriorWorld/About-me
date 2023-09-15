@@ -4,12 +4,11 @@ An introduction about myself
 Okay, in this repo, I will introduce my work experiences. For obvious reasons, my GitHub only includes my personal projects(I definitely cannot upload my companies' projects here, so all those companies projects I will not put project links here).
 
 ---
----
 
 ## Company projects
 I've been working for three companies during my 8 years of working as an Android developer, I will describe them in an inverted order.
 
----
+***
 
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/roobo.jpg)
 
@@ -48,7 +47,7 @@ I also took the responsibility of maintaining several apps in that robot.
 
 ![Putting](https://github.com/warriorWorld/About-me/blob/main/images/Pudding.webp)
 
----
+***
 
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/xianhuahua.png)
 
@@ -65,7 +64,7 @@ I developed all the parts of this app(Android part), and this app had more than 
 I developed all the parts of this app(Android part),  and this app had more than hundreds of thousands of users.
 ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu1.jpg) ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu2.jpg) 
 
----
+***
 
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/kanglianda.jpg)
 
@@ -79,7 +78,6 @@ Hospitals use this application to manage their medicines and patients can also b
 
 ![medicine](https://github.com/warriorWorld/About-me/blob/main/images/medicine1.jpg) ![medicine](https://github.com/warriorWorld/About-me/blob/main/images/medicine2.jpg)
 
----
 ---
 
 ## My Personal Projects
