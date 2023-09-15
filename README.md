@@ -115,6 +115,9 @@ I developed this app for me to learn English(again) by you know, reading books. 
 
 ![ss](https://github.com/warriorWorld/StrangerBookReader/blob/master/app/screenshot/translate.jpg) ![ss](https://github.com/warriorWorld/StrangerBookReader/blob/master/app/screenshot/read.jpg)
 
+##### Technical detail(if you are not interested, just ignore this part)
+I write a view that can show texts on it, and when users click on a single word, I would get the letter by the coordinate position, and then I would use a regular expression to group a word, and finally, I would translate it and show it to users.
+
 ### 6, [Puzzle](https://github.com/warriorWorld/Puzzle)
 This is a puzzle game, I developed this while I was learning Unity. You can take a photo, and then my puzzle game can turn it into a puzzle.
 
