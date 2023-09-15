@@ -76,3 +76,33 @@ Hospitals use this application to manage their medicines and patients can also b
 
 ### 1, [Manga Reader](https://github.com/warriorWorld/MangaReader)
 As the name suggests, it is an application for users to read mangas(in English), I developed this for myself to learn English, and it actually worked. Because of this, I expanded my vocabulary a lot.
+
+
+### 2, [Shaft](https://github.com/warriorWorld/Shaft)
+
+
+### 3, [Video Crawler](https://github.com/warriorWorld/VideoCrawler)
+
+
+### 4, [A Keyboard](https://github.com/warriorWorld/StyleLibrary)
+
+
+### 5, [Book Reader](https://github.com/warriorWorld/StrangerBookReader)
+
+
+### 6, [Puzzle](https://github.com/warriorWorld/Puzzle)
+
+
+### 7, [Parrot](https://github.com/warriorWorld/Parrot)
+
+
+### 8, [Word Cards](https://github.com/warriorWorld/MyWord)
+
+
+### 9, [A Browser](https://github.com/warriorWorld/ForeignNews)
+
+
+### 10, [Touch Proof](https://github.com/warriorWorld/TouchProof)
+
+
+### 11, [Cover](https://github.com/warriorWorld/Cover)
