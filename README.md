@@ -128,11 +128,15 @@ The Parrot is a parrot, it can repeat what you said, actually, it can detect you
 
 There is a video [here](https://www.youtube.com/shorts/k-6uZAbe6Ig), you can click the image down here to watch.
 
+[![Watch the video](https://github.com/warriorWorld/Parrot/blob/master/app/screenshots/ss.jpg)](https://www.youtube.com/shorts/k-6uZAbe6Ig)
+
 ### 8, [Word Cards](https://github.com/warriorWorld/MyWord)
 I developed this for my TOEFL examination, it worked very well.
 
 ### 9, [A Browser](https://github.com/warriorWorld/ForeignNews)
 This is a browser, just a browser, except you can translate a single word instead of the entire article. I also used this to learn English, you know, if you translated the entire article for yourself, it will not help you to improve your vocabulary.
+
+
 
 ### 10, [Touch Proof](https://github.com/warriorWorld/TouchProof)
 Sometimes, you want to hear a video rather than watch a video, and you put your phone in your pocket, but this will produce some unexpected touches. That is why I developed this app(I know YouTube provides a service for this, but it charges me a fee).
