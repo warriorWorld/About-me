@@ -121,8 +121,12 @@ I write a view that can show texts on it, and when users click on a single word,
 ### 6, [Puzzle](https://github.com/warriorWorld/Puzzle)
 This is a puzzle game, I developed this while I was learning Unity. You can take a photo, and then my puzzle game can turn it into a puzzle.
 
+![ss](https://github.com/warriorWorld/Puzzle/blob/master/screenshots/ss1.jpg) ![ss](https://github.com/warriorWorld/Puzzle/blob/master/screenshots/ss2.jpg)
+
 ### 7, [Parrot](https://github.com/warriorWorld/Parrot)
 The Parrot is a parrot, it can repeat what you said, actually, it can detect your voice and then record it, and play it, that is all. I use this to improve my English speaking, you know, I can hear what I said and then I can correct myself.
+
+There is a video [here](https://www.youtube.com/shorts/k-6uZAbe6Ig), you can click the image down here to watch.
 
 ### 8, [Word Cards](https://github.com/warriorWorld/MyWord)
 I developed this for my TOEFL examination, it worked very well.
