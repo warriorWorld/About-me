@@ -7,7 +7,7 @@ GitHub上只有我的个人项目，所有公司项目我不会放链接在这�
 
 ---
 
-## Company projects
+## 公司项目
 8年来我在3家公司开发过Android, 我将按倒叙来介绍.
 
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/roobo.jpg)
