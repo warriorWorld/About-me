@@ -94,13 +94,12 @@ app部分使用上述SDK并做相应处理
 ### 2, [去地底](https://github.com/warriorWorld/Shaft)
 已上架 [Google Play](https://play.google.com/store/apps/details?id=com.harbinger.shaft)
 
-I used Unity to develop this game, the game's target is to reach the final floor. In the game, it has 9 characters, all those characters have their own special ability. For example, the Spider can shoot a thread, the Time can stop time, and the Space can flash.
+这是一个下一百层小游戏，只不过这个游戏真的只有100层，9个角色都有各自的特殊能力，当你到达100层，就能解锁新能力
 
-If you want to watch a [video](https://www.youtube.com/shorts/Tpv-56QXmFk) of this game, please click the image down here.
+这是一个 [视频](https://www.youtube.com/shorts/Tpv-56QXmFk) 也可点下面的图片观看
 
 [![Watch the video](https://github.com/warriorWorld/Shaft/blob/master/screenshots/TTGSS1.jpg)](https://www.youtube.com/shorts/Tpv-56QXmFk)
 
-When you arrive on the 100 floor, your character's ability will change permanently.
 
 ### 3, [Video Crawler](https://github.com/warriorWorld/VideoCrawler)
 This is a video player, I created this app in order to learn English by watching videos, so, it makes sense that this app has a translation feature. In this app, I used Google's video player, I mainly handled the gestures of users, and I made the app very easy to use.
