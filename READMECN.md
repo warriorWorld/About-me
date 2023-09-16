@@ -63,6 +63,7 @@ app部分使用上述SDK并做相应处理
 
 #### 2, 花生米富（an app for lender to invest money）
 这是投资端app，我开发了这个app的全部版本（公司后来倒闭了，所以确实是全部版本）。
+
 ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu1.jpg) ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu2.jpg) 
 
 ***
@@ -81,18 +82,17 @@ app部分使用上述SDK并做相应处理
 
 ---
 
-## My Personal Projects
+## 个人项目
 
-### 1, [Manga Reader](https://github.com/warriorWorld/MangaReader)
-As the name suggested, it is an application for users to read mangas(in English), I developed this for myself to learn English, and it actually worked. Because of this, I expanded my vocabulary a lot.
+我的绝大多数个人项目都是为了帮助我自己学英语开发的。
+
+### 1, [漫画阅读器](https://github.com/warriorWorld/MangaReader)
+这是一个看英文漫画的app，支持翻译功能，可以看在线或者下载后浏览
 
 ![ss](https://github.com/warriorWorld/MangaReader/blob/master/app/screenshot/ss1.jpg) ![ss](https://github.com/warriorWorld/MangaReader/blob/master/app/screenshot/ss2.jpg) ![ss](https://github.com/warriorWorld/MangaReader/blob/master/app/screenshot/ss6.jpg)
 
-##### Technical detail(if you are not interested, just ignore this part)
-This app included a download feature, I used a thread pool to solve this. First, I would get all the image links, and then I would use a thread pool to execute the actual download threads. At every step, I would save its status, this guaranteed that if the process was interrupted, the app could still download the manga from the last point.
-
-### 2, [To The Ground](https://github.com/warriorWorld/Shaft)
-You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.harbinger.shaft)
+### 2, [去地底](https://github.com/warriorWorld/Shaft)
+已上架 [Google Play](https://play.google.com/store/apps/details?id=com.harbinger.shaft)
 
 I used Unity to develop this game, the game's target is to reach the final floor. In the game, it has 9 characters, all those characters have their own special ability. For example, the Spider can shoot a thread, the Time can stop time, and the Space can flash.
 
