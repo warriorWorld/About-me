@@ -1,44 +1,48 @@
 # About-me
-An introduction about myself
+自我介绍
 
-Okay, in this repo, I will introduce my work experiences. For obvious reasons, my GitHub only includes my personal projects(I definitely cannot upload my companies' projects here, so all those companies projects I will not put project links here).
+## If you want to read this in English, please click [here](https://github.com/warriorWorld/About-me)
+
+GitHub上只有我的个人项目，所有公司项目我不会放链接在这里
 
 ---
 
 ## Company projects
-I've been working for three companies during my 8 years of working as an Android developer, I will describe them in an inverted order.
+8年来我在3家公司开发过Android, 我将按倒叙来介绍.
 
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/roobo.jpg)
 
-### 1, Roobo
+### 1, 北京如布科技有限公司
 
-This is an education company, it makes software for teaching children.
+这是一家主要面对儿童的教育公司
 
-#### 1, Roobo AI teacher
-This app is only available on specific devices, you can check it out by clicking [here](https://baijiahao.baidu.com/s?id=1756802320950561258&wfr=spider&for=pc).
+#### 1, 如布AI老师
+这个是给特定设备开发的一个app，你可以点 [这里](https://baijiahao.baidu.com/s?id=1756802320950561258&wfr=spider&for=pc) 查看详细介绍。
 
-This app is kind of like Siri, you can talk with it and it will answer you by voice. You can ask specific questions, such as how to write a Chinese word, and it will show you how by showing a gif, or you can ask the app to play a piece of music for you. Or you can just chat with it about everyday topics.
+这个app很像小爱同学,它可以用声音回答你. 同时会有一些特殊的回答, 比如你可以问某个字怎么写，或者让它给你讲个故事. 或者就是普通的对话
 
 ![AITeacher1](https://github.com/warriorWorld/About-me/blob/main/images/AITeacher1.jpg) ![AITeacher1](https://github.com/warriorWorld/About-me/blob/main/images/AITeacher2.jpg) ![AITeacher1](https://github.com/warriorWorld/About-me/blob/main/images/AITeacher3.jpg) 
 
-##### Technical detail(if you are not interested, just ignore this part)
-###### SDK Part
-I developed an SDK for this app to use(we have other applications that also use this SDK which was developed by me), The SDK can deal with users' sound by using VAD(aka, Voice activity detection) technology to detect the active part of the sound, I denoise it, and then I call ASR(aka, Automatic Speech Recognition) interface in order to transfer the sound to text after I got the text, I send the text to our service, then our service will handle it with AI(chatGPT and my company's own AI, the service will determine use which one). And finally, the service will give me a response. And the SDK's job is done. (I developed all the parts of this SDK)
-###### App Part
-The app gets a response from the SDK and will handle the response according to specific rules because you know, there are several special feedbacks for users, just like the images showed, I handle this part by using RXJava. With a normal response, I just use the SDK to do TTS(aka, text to speech) for me and show the text to users(95% of this app's parts were developed by me).
+##### 技术细节
+###### SDK
+我配合公司的语音组开发了一个SDK处理语音相关问题,这个SDK主要包含几个功能：
+1，录音包含VAD和降噪，可以自动截断用户声音并降噪
+2，ASR将录音转为文字
+3，AI部分，发送文字，服务端给相应的回馈
+4，口语评测，可以对用户的发音打分
+5，TTS，文字转语音
+###### App 
+app部分使用上述SDK并做相应处理
 
-#### 2, Roobo AI courses
-This app is for children studying Chinese, English, art, mathematics, etc... You can learn more by clicking [here](http://activity.roobovip.com/#/mainEntry1).
+#### 2, 如布智慧课堂
+这是一个给幼儿园小朋友上课的app，详情点击 [这里](http://activity.roobovip.com/#/mainEntry1).
 
-This app actually has about a dozen types of little games built into it. Teachers can group videos and little games together in a console and they can configure those games according to courses. For example, they can configure a puzzle game in order to teach children art and configure a rhythm game in order to teach children music.
+最早我们使用的flutter开发的这个app，后来改用unity。这个应用实际是由很多游戏组成的。教研可以在后台配置视频和游戏，游戏可以具体配置，比如一个拼图游戏，可以配置具体的图片，答案。一个口语评测游戏可以具体配置单词等等。我开发了其中很多游戏，包括拼图游戏，艺术鉴赏，节奏大师，古诗词，看图识字，口语跟读等等。
 
 ![AICourses](https://github.com/warriorWorld/About-me/blob/main/images/AICourses.webp)
 
-##### Technical detail(if you are not interested, just ignore this part)
-At first, we developed this app by using Flutter, but after the project became bigger and bigger. And also because the app mainly consisted of game-like features. As a result, we changed to Unity. I developed the video part and also developed several games for this project. For the video part, I used a third-party plugin for the video play, I mainly handled the gesture part of the video play. For the game part, I've developed a puzzle game, a rhythm game, a poem game, two exhibition games, a word pronunciation game, etc.
-
-#### 3, Pudding robot
-This is not an app but a robot, and it is based on Android. more info [here](https://baike.baidu.com/item/%E5%B8%83%E4%B8%81%E8%B1%86%E8%B1%86/20374641?fr=ge_ala)
+#### 3, 布丁豆芽，豆豆
+这实际上是一个基于Android的机器人， [点击这里](https://baike.baidu.com/item/%E5%B8%83%E4%B8%81%E8%B1%86%E8%B1%86/20374641?fr=ge_ala)
 
 I developed an SDK for other companies or whoever wants to control the robot, you can use the SDK to control the robot rotating, speaking, and sleeping. And you can use the SDK to manage the focus of the robot's hardware.
 I also took the responsibility of maintaining several apps in that robot.
