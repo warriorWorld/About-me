@@ -44,8 +44,7 @@ app部分使用上述SDK并做相应处理
 #### 3, 布丁豆芽，豆豆
 这实际上是一个基于Android的机器人， [点击这里](https://baike.baidu.com/item/%E5%B8%83%E4%B8%81%E8%B1%86%E8%B1%86/20374641?fr=ge_ala)
 
-I developed an SDK for other companies or whoever wants to control the robot, you can use the SDK to control the robot rotating, speaking, and sleeping. And you can use the SDK to manage the focus of the robot's hardware.
-I also took the responsibility of maintaining several apps in that robot.
+我整合了一个SDK用来给第三方控制这个机器人，这个SDK可以用来控制这个机器人转动，处理触摸事件，控制机器人说话，管理硬件焦点等等。并维护这个机器人上的其他app
 
 ![Putting](https://github.com/warriorWorld/About-me/blob/main/images/Pudding.webp)
 
@@ -53,30 +52,30 @@ I also took the responsibility of maintaining several apps in that robot.
 
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/xianhuahua.png)
 
-### 2, XianHuaHua(先花信息技术（北京）有限公司)
+### 2, 先花信息技术（北京）有限公司
 
-This company was a P2P company which means it provided loan and investment chances for users, and it has already gone broke.
+这是一家P2P公司，主要做投资和借款app，这个公司只有我一个Android开发（最后不到一年的时候又招了一个，但绝大多数时间都是我一个人），所以所有的app都是我开发的。
 
-#### 1, 先花一亿元（an app that you can borrow money from it）
-I developed all the parts of this app(Android part), and this app had more than 10 million users.
+#### 1, 先花一亿元
+这是一个借款用的app，安装量超千万，我开发了这个app的全部版本（公司后来倒闭了，所以确实是全部版本）。
 
 ![yyy](https://github.com/warriorWorld/About-me/blob/main/images/yyy.jpg)
 
 #### 2, 花生米富（an app for lender to invest money）
-I developed all the parts of this app(Android part),  and this app had more than hundreds of thousands of users.
+这是投资端app，我开发了这个app的全部版本（公司后来倒闭了，所以确实是全部版本）。
 ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu1.jpg) ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu2.jpg) 
 
 ***
 
 ![icon](https://github.com/warriorWorld/About-me/blob/main/images/kanglianda.jpg)
 
-### 3, Kanglianda(康联达（北京）软件有限公司)
+### 3, 康联达（北京）软件有限公司
 
-This is a medical software company that mainly develops HIS(aka, Hospital Information System) applications.
+这是一家专做医药管理类应用的公司（HIS）
 
-#### 1, HIS(a medicine management application)
+#### 1, 医药管理系统（HIS，hospital information system）
 
-Hospitals use this application to manage their medicines and patients can also benefit from this, they can get their medicines more quickly and accurately. I developed this app all by myself(I mean during that time, I was still a novice and this app actually was very simple).
+去各大医院现场根据需求开发HIS系统
 
 ![medicine](https://github.com/warriorWorld/About-me/blob/main/images/medicine1.jpg) ![medicine](https://github.com/warriorWorld/About-me/blob/main/images/medicine2.jpg)
 
