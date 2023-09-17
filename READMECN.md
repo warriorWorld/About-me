@@ -164,14 +164,3 @@ This is a browser, just a browser, except you can translate a single word instea
 
 ##### Technical detail(if you are not interested, just ignore this part)
 I used JS injection to get the word that users clicked.
-
-### 10, [Touch Proof](https://github.com/warriorWorld/TouchProof)
-Sometimes, you want to hear a video rather than watch a video, and you put your phone in your pocket, but this will produce some unexpected touches. That is why I developed this app(I know YouTube provides a service for this, but it charges me a fee).
-I did this by covering the entire screen. First, you click the icon twice, it will cover your entire screen, and you have to click twice after a long touch on this screen in order to unlock the screen. This prevented those unexpected touches.
-
-![ss](https://github.com/warriorWorld/TouchProof/blob/master/app/screenshots/ss1.jpg) ![ss](https://github.com/warriorWorld/TouchProof/blob/master/app/screenshots/ss2.jpg)
-
-### 11, [Cover](https://github.com/warriorWorld/Cover)
-In order to learn English, sometimes I need to block the video's subtitles. I developed this app for this purpose, you can adjust the cover's position and size, and it will remember your config.
-
-![ss](https://github.com/warriorWorld/Cover/blob/master/app/screenshots/ss.jpg)
