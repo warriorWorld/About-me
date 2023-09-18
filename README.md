@@ -1,6 +1,8 @@
 # About-me
 An introduction about myself
 
+[中文版点这里](https://github.com/warriorWorld/About-me/blob/main/READMECN.md)
+
 Okay, in this repo, I will introduce my work experiences. For obvious reasons, my GitHub only includes my personal projects(I definitely cannot upload my companies' projects here, so all those companies projects I will not put project links here).
 
 ---
