@@ -101,66 +101,55 @@ app部分使用上述SDK并做相应处理
 [![Watch the video](https://github.com/warriorWorld/Shaft/blob/master/screenshots/TTGSS1.jpg)](https://www.youtube.com/shorts/Tpv-56QXmFk)
 
 
-### 3, [Video Crawler](https://github.com/warriorWorld/VideoCrawler)
-This is a video player, I created this app in order to learn English by watching videos, so, it makes sense that this app has a translation feature. In this app, I used Google's video player, I mainly handled the gestures of users, and I made the app very easy to use.
+### 3, [视频播放器](https://github.com/warriorWorld/VideoCrawler)
+一个视频播放器，我开发这个应用用来方便的看美剧，这个应用有遮挡字幕和翻译功能。同样的也是为了我自己学英语服务的。
 
 ![github](https://github.com/warriorWorld/VideoCrawler/blob/master/app/screenshot/video.jpg) 
 
-### 4, [A Keyboard](https://github.com/warriorWorld/StyleLibrary)
-I developed this keyboard in order to use it on my "My Word" and "Manga Reader" projects. This keyboard will not guess what you want to input, it makes sense when you want a keyboard that will be used in a word cards application. In addition, this keyboard is very easy to use, you can slide your finger in order to select a letter. It has a vertical version and a horizontal version.
+### 4, [滑动键盘](https://github.com/warriorWorld/StyleLibrary)
+这是我开发的一个键盘，用在我的很多项目里，包括生词本，看漫画，视频播放器，浏览器等。我有一个需要输入验证正确性的生词本，所以我的键盘不能带自动联想功能，市面上又没有，所以我自己开发了一个，可以靠滑动选择字母的键盘
 
 ![ss](https://github.com/warriorWorld/MangaReader/blob/master/app/screenshot/ss5.jpg) 
 
-On this vertical version of this keyboard, you select the letter by sliding your finger from 4 or 3 directions.
+竖版键盘靠滑动输入，横屏后直接输入。
 
 ![github](https://github.com/warriorWorld/VideoCrawler/blob/master/app/screenshot/translate1.jpg) 
 
-If you want to use my keyboard on your own projects, you should check it out [here](https://github.com/warriorWorld/StyleLibrary)
+想接入我的键盘？可以[看这里](https://github.com/warriorWorld/StyleLibrary)
 
 
-### 5, [Book Reader](https://github.com/warriorWorld/StrangerBookReader)
-I developed this app for me to learn English(again) by you know, reading books. It supports TXT and PDF.
+### 5, [阅读器](https://github.com/warriorWorld/StrangerBookReader)
+同样的是为了我自己学英语开发的应用，支持点击翻译的阅读器。
 
 ![ss](https://github.com/warriorWorld/StrangerBookReader/blob/master/app/screenshot/translate.jpg) ![ss](https://github.com/warriorWorld/StrangerBookReader/blob/master/app/screenshot/read.jpg)
 
-##### Technical detail(if you are not interested, just ignore this part)
-I write a view that can show texts on it, and when users click on a single word, I would get the letter by the coordinate position, and then I would use a regular expression to group a word, and finally, I would translate it and show it to users.
-
-### 6, [Puzzle](https://github.com/warriorWorld/Puzzle)
-This is a puzzle game, I developed this while I was learning Unity. You can take a photo, and then my puzzle game can turn it into a puzzle.
+### 6, [拼图](https://github.com/warriorWorld/Puzzle)
+我在学习unity过程中开发的一个拼图游戏。
 
 ![ss](https://github.com/warriorWorld/Puzzle/blob/master/screenshots/ss1.jpg) ![ss](https://github.com/warriorWorld/Puzzle/blob/master/screenshots/ss2.jpg)
 
-##### Technical detail(if you are not interested, just ignore this part)
-This project is mainly about dealing with images, first, you need to calculate those coordination points and separate the image into dozens of pieces, and then shuffle them.
+### 7, [鹦鹉](https://github.com/warriorWorld/Parrot)
+通过VAD自动检测人声，然后重播人声，所以叫鹦鹉。我开发这个是为了纠正我自己的英语发音。
 
-### 7, [Parrot](https://github.com/warriorWorld/Parrot)
-The Parrot is a parrot, it can repeat what you said, actually, it can detect your voice and then record it, and play it, that is all. I use this to improve my English speaking, you know, I can hear what I said and then I can correct myself.
-
-There is a video [here](https://www.youtube.com/shorts/k-6uZAbe6Ig), you can click the image down here to watch.
+视频[看这里](https://www.youtube.com/shorts/k-6uZAbe6Ig)
 
 [![Watch the video](https://github.com/warriorWorld/Parrot/blob/master/app/screenshots/ss.jpg)](https://www.youtube.com/shorts/k-6uZAbe6Ig)
 
-##### Technical detail(if you are not interested, just ignore this part)
-First, denoise the audio input while recording. Put those data into a VAD SDK, find those active areas, then save it, and play the sound for users.
-
-### 8, [Word Cards](https://github.com/warriorWorld/MyWord)
-I developed this for my TOEFL examination, it worked very well.
+### 8, [生词本](https://github.com/warriorWorld/MyWord)
+我开发这个生词本为了准备我的托福考试
 
 ![ss](https://github.com/warriorWorld/MyWord/blob/master/app/screenshots/ss1.jpg) ![ss](https://github.com/warriorWorld/MyWord/blob/master/app/screenshots/ss2.jpg) ![ss](https://github.com/warriorWorld/MyWord/blob/master/app/screenshots/ss3.jpg)
 
-There are two types of word cards, one for reading and one for writing, the reading one is just like the above images showed. And in the writing one, you have to input the exact word in the word cards.
+##### 技术细节
+这个app有三种方式添加生词
+1, 我这个生词本实际上给我其他应用提供了一个翻译服务，通过AIDL实现的。所以当其他应用查词时，我就能直接把这些词添加进生词本。
+2, 爬取GitHub上的我创建的生词库 [比如这里是我的生词本](https://github.com/warriorWorld/Words/blob/master/words.txt)
+3, 直接手动添加
 
-##### Technical detail(if you are not interested, just ignore this part)
-This app actually has three means to add new words to it.
-1, This app can actually provide a service for other applications translating English words, my "Manga Reader", "Stranger Book Reader", "Foreign News" and "Video Crawler" all use this service. Because of this, whenever users use those apps to translate words, those words will be added to the word cards automatically. I implemented this by using AIDL technology.
-2, I used a web crawler to get words from GitHub, and this is my word list [here](https://github.com/warriorWorld/Words/blob/master/words.txt)
-3, You can add words manually, I provided an EditText in the app in order to do so.
-
-### 9, [A Browser](https://github.com/warriorWorld/ForeignNews)
-This is a browser, just a browser, except you can translate a single word instead of the entire article. I also used this to learn English, you know, if you translated the entire article for yourself, it will not help you to improve your vocabulary.
+### 9, [浏览器](https://github.com/warriorWorld/ForeignNews)
+同样还是为了我自己学英语用的，一个带翻译的浏览器。市面上的浏览器翻译功能都是整篇翻译，但是整篇翻译你怎么学英语？我这个浏览器用户需要主动翻译某个单词。
 
 ![ss](https://github.com/warriorWorld/ForeignNews/blob/master/app/screenshot/main1.jpg) ![ss](https://github.com/warriorWorld/ForeignNews/blob/master/app/screenshot/translate.jpg)
 
-##### Technical detail(if you are not interested, just ignore this part)
-I used JS injection to get the word that users clicked.
+##### 技术细节
+JS注入方式获取选中单词，然后翻译。
