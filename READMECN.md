@@ -61,7 +61,7 @@ app部分使用上述SDK并做相应处理
 
 ![yyy](https://github.com/warriorWorld/About-me/blob/main/images/yyy.jpg)
 
-#### 2, 花生米富（an app for lender to invest money）
+#### 2, 花生米富
 这是投资端app，我开发了这个app的全部版本（公司后来倒闭了，所以确实是全部版本）。
 
 ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu1.jpg) ![huashengmifu](https://github.com/warriorWorld/About-me/blob/main/images/huashengmifu2.jpg) 
